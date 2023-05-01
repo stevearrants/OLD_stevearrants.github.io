@@ -28,7 +28,7 @@ navbar-links:
    Resume: "resume"
    Blog: 
    - Opinion: "blog"
-   - From Medium: "medium"
+# - From Medium: "medium"
 
 ################
 # --- Logo --- #
