@@ -5,10 +5,9 @@ subtitle: Samples of my work
 ---
 I&#8217;ve been creating technical documentation since 1986. I started out working on print documentation but have transitioned to online documentation and training. This page provides samples of documentation.
 
-### Samples available here
-
-<a href="http://articleexpress.help.s3-website-us-east-1.amazonaws.com/TSG/DJS/PFXHelp.htm" target="_blank" rel="noopener">Online Help for ArticleExpress</a> — This Help supports a SaaS product used for editing STEM articles, proofing them, and preparing them for print and online delivery. Each instance of Help is tailored to the individual client and journal.
-
+### Samples available by contacting me.
+I've had my samples copied and used by folks who found them here. Please contact me for links to samples.
+<!--comments
 <a href="https://www.linkedin.com/pulse/advice-new-technical-writers-steve-arrants" target="_blank" rel="noopener">Advice for New Technical Writers</a> — Some advice for the new technical writer, published on LinkedIn.
 
 <a href="/store/Using The Publisher Center.pdf" target="_blank" rel="noopener">Using the Publisher Center.pdf</a> — Quick Reference PDF for clients using The Publishing Center, a web application used to manage and retrieve published articles.
@@ -24,3 +23,4 @@ I&#8217;ve been creating technical documentation since 1986. I started out work
 <a href="https://youtu.be/QKUzi03l23U" target="_blank" rel="noopener">Fixing a Broken Figure</a> — Is that missing/broken figure really missing? Do you need to have us process another graphic? It might just be misnamed. Use the Element Editor to fix it.
 
 <a href="https://youtu.be/7kolZhov36o" target="_blank" rel="noopener">Editing References with the Element Editor</a> — If punctuation is missing, use the Element Editor to add it back in.
+<!--close -->
