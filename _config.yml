@@ -27,7 +27,7 @@ navbar-links:
    Style Guide: "./style"
    Resume: "resume"
 # Blog: 
-   - Opinion: "blog"
+#   - Opinion: "blog"
 # - From Medium: "medium"
 
 ################
