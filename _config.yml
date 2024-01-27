@@ -26,9 +26,9 @@ navbar-links:
    Portfolio: "portfolio"
    Style Guide: "./style"
    Resume: "resume"
-# Blog: 
-#   - Opinion: "blog"
-# - From Medium: "medium"
+   Blog: 
+    - Opinion: "blog"
+    - From Medium: "medium"
 
 ################
 # --- Logo --- #
