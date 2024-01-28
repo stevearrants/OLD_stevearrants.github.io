@@ -28,7 +28,7 @@ A lot! Check my resume and my About Me page.
 I don't talk salary until I know what the position is and what your expectations are. I'm sure you have a range for the position. Let's get to know each other first!
 
 ### Are you willing to relocate?
-My family and I are planning a move to the St. George Utah area in 2023 to assist elderly parents.
+My family and I are planning a move to the St. George Utah area in 2024-2025 to assist elderly parents.
 
 ### Are you willing to work remotely?
 Absolutely! I've got the internet bandwidth and the equipment for it. And I can make occasional visits to the work site.
