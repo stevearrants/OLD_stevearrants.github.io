@@ -51,22 +51,25 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+#  rss: false
   email: "sarrants+gh@gmail.com"
+# facebook: daattali
   github: stevearrants
-  linkedin: stevearrants
-  mastodon: "https://hachyderm.io/deck/@vttechwriter"
-#  facebook: daattali
-#  twitter: SteveArrants
+  twitter: SteveArrants
 #  reddit: yourname
-#  stackoverflow: "7791397/steve-arrants"
+# google-plus: +SteveArrants
+  linkedin: stevearrants
+#  xing: yourname
+  stackoverflow: "7791397/steve-arrants"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-   telephone: +18027352189
+#  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
+
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
